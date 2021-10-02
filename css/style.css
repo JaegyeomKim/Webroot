@@ -1,0 +1,11 @@
+.container-fluid{
+    background-color: whitesmoke;
+}
+.col-sm-4 {
+    background-color: rgba(167, 243, 208);	
+}
+
+.col-sm-8{
+    background-color: wheat;
+
+}
